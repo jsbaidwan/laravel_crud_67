@@ -10,12 +10,14 @@ This is a basic CRUD of customer with following features:
 
 ############################## Technical Information ###########################
 
-Languages: php, javasript(jQuery)
+<div>Languages: php, javasript(jQuery)</div?
 <div>Frameworks: Laravel</div>
 <div>Database: Mysql</div>
 <div>Database Engine: InnoDB</div>
 
-
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 Note: The user can view the customers list using the below the URL:
 
 http://localhost/project_name/
