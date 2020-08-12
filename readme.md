@@ -1,4 +1,4 @@
-################################# LARAVEL CRUD(CREATE, READ, UPDATE, DELETE) ##############################
+<div style="font-size:30px;">LARAVEL CRUD(CREATE, READ, UPDATE, DELETE) </div>
 
 This is a basic CRUD of customer with following features:
 1) Create(Add Customer): The user can add a new customer.
@@ -6,9 +6,11 @@ This is a basic CRUD of customer with following features:
 3) Read(List of Customers): The user can view the detail of a customer or all customers on Customers List page.
 4) Status: The user can activate/deactivate the customer.
 5) Delete: The user can delete the customer.
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
-
-############################## Technical Information ###########################
+<div style="font-size:30px;"> Technical Information </div>
 
 <div>Languages: php, javasript(jQuery)</div?
 <div>Frameworks: Laravel</div>
