@@ -8,16 +8,12 @@
 <div>5) Delete: The user can delete the customer.</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-
 <h6> Technical Information </h6>
 
 <div>Languages: php, javasript(jQuery)</div>
 <div>Frameworks: Laravel</div>
 <div>Database: Mysql</div>
 <div>Database Engine: InnoDB</div>
-
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <h6>Note: The user can view the customers list using the below the URL:</h6>
