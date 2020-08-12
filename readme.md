@@ -1,4 +1,4 @@
-<div style="font-size:30px;"><h2>LARAVEL CRUD(CREATE, READ, UPDATE, DELETE)<h2> </div>
+<h2>LARAVEL CRUD(CREATE, READ, UPDATE, DELETE)<h2>
 
 This is a basic CRUD of customer with following features:
 1) Create(Add Customer): The user can add a new customer.
