@@ -11,9 +11,9 @@ This is a basic CRUD of customer with following features:
 ############################## Technical Information ###########################
 
 Languages: php, javasript(jQuery)
-Frameworks: Laravel
-Database: Mysql
-Database Engine: InnoDB
+<div>Frameworks: Laravel</div>
+<div>Database: Mysql</div>
+<div>Database Engine: InnoDB</div>
 
 
 Note: The user can view the customers list using the below the URL:
